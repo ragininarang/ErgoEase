@@ -1,5 +1,4 @@
-#ErgoEase
-  ErgoEase is a posture monitoring app that uses computer vision to help improve posture during work sessions.
+ErgoEase is a posture monitoring app that uses computer vision to help improve posture during work sessions.
 
 ## Features
 - **Start Calibration**: Guides users to set a baseline posture.
